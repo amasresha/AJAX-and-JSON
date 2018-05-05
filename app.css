@@ -1,0 +1,16 @@
+#btn{
+  background-color: green;
+  margin-top: 2em;
+  font-size: 1em;
+}
+
+#titleDisplay{
+ color: blue;
+}
+
+#authorDisplay{
+    color: brown;
+}
+#desriptionDisplay{
+   color: green;
+}
